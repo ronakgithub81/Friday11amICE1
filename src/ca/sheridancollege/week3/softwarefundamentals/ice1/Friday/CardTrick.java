@@ -10,7 +10,8 @@ public class CardTrick
     {
         //My input
         Card aceSpades = new Card("Spades", 1);
-        
+        //Print was edited in github
+        System.out.println(aceSpades.getSuit() + " " + aceSpades.getValue());
         
     }
     

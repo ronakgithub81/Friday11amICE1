@@ -17,6 +17,8 @@ public class CardTrick {
         
        
         c1.setValue(4);
+        
+        System.out.println(c1.getValue + c1.getSuit);
             
         
            

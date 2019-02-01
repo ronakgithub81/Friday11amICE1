@@ -13,7 +13,11 @@ public class CardTrick {
        c1.setSuit("Spades");
        c1.setValue(1);
         
-        System.out.println(c1.getSuit() + " " + c1.getValue());
+       System.out.println(c1.getSuit() + " " + c1.getValue());
+       
+       Card c2 = new Card();
+       c2.setSuit("Diamonds");
+       c2.setValue(2);
     }
     
 }

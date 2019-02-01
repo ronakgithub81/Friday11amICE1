@@ -12,6 +12,8 @@ public class CardTrick {
      Card kevinLyCard = new Card();
      kevinLyCard.setSuit("Hearts");
      kevinLyCard.setValue(4);
+        
+        System.out.println(kevinLyCard.getValue() + kevinLy.getSuit());
     }
     
 }

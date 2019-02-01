@@ -12,7 +12,7 @@ public class CardTrick {
      Card kevinLyCard = new Card();
      kevinLyCard.setSuit("Hearts");
      kevinLyCard.setValue(4);
-        
+        //printing
         System.out.println(kevinLyCard.getValue() + kevinLy.getSuit());
     }
     

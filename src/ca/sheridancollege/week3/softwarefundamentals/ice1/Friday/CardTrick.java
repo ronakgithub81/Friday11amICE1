@@ -13,7 +13,7 @@ public class CardTrick {
        ryanHill.setValue(1);
         
        System.out.println("Ryan Hill Card Suit: " + ryanHill.getSuit() +
-                          "\nRyan Hill Card Value: " + ryanHill.getValue())
+                          "\nRyan Hill Card Value: " + ryanHill.getValue());
     }
     
 }

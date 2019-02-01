@@ -12,6 +12,10 @@ public class CardTrick {
        ryanHill.setSuit("Hearts");
        ryanHill.setValue(1);
         
+       Card ryanHillSecondCard = new Card();
+       ryanHillSecondCard.setSuit("Clubs");
+       ryanHillSecondCard.setValue(10);
+       
        System.out.println("Ryan Hill Card Suit: " + ryanHill.getSuit() +
                           "\nRyan Hill Card Value: " + ryanHill.getValue());
     }

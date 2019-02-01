@@ -11,6 +11,10 @@ public class CardTrick {
         card c1 = new Card();
         c1.setSuit("Diamond");
         c1.setValue(5);
+        System.out.println("Hello"); 
+        System.out.println(c1.getValue);
+        System.out.println(c1.getSuit);
+        
         
        
     }

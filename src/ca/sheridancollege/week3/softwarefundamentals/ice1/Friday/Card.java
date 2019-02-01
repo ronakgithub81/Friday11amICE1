@@ -6,7 +6,8 @@
 package ca.sheridancollege.week3.softwarefundamentals.ice1.Friday;
 
 /**
- *
+ * Androw Abressa
+ *Student number : 991521983
  * @author Ronak
  */
 public class Card {

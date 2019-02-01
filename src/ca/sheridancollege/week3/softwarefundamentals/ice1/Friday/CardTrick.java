@@ -12,6 +12,7 @@ public class CardTrick {
        Card card1 = new Card();
        card1.setSuit("Spades");
        card1.setValue(1);
+        System.out.println(card1.toString());
     }
     
 }

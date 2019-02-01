@@ -14,6 +14,12 @@ public class CardTrick {
      kevinLyCard.setValue(4);
         //printing card
         System.out.println(kevinLyCard.getValue() + kevinLy.getSuit());
+        
+     Card kevinLyCard2 = new Card();
+     kevinLyCard2.setSuit("Spades");
+     kevinLyCard2.setValue(7);
+     
+        
     }
     
 }

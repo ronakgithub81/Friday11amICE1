@@ -16,7 +16,7 @@ public class CardTrick {
        H9.setSuit("Hearts");
        H9.setValue(9);
 
-       
+       System.out.println(H9.getSuit() + " " + H9.getValue());
     }
     
 }

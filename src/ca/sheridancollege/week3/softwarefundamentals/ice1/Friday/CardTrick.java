@@ -6,6 +6,7 @@ package ca.sheridancollege.week3.softwarefundamentals.ice1.Friday;
  * @author Ronak
  *
  * Student ID: 991480365
+ * Name: Nikolay Rozum
  *
  */
 public class CardTrick {

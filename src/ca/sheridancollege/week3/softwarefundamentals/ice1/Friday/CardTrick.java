@@ -12,6 +12,8 @@ public class CardTrick {
        Card myCard = new Card();
        myCard.setSuit("Diamonds");
        myCard.setValue(13);
+        
+       System.out.print("My card is the " + myCard.getValue() + "of " + myCard.getSuit() + "!");
     }
     
 }
